@@ -1,0 +1,5 @@
+map map01 "Temp" {
+	sky1 = "nightsky"
+	evenlighting
+	next = "map01"
+}
