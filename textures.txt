@@ -1,0 +1,7 @@
+texture N_CMP02, 64, 64
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CMP05E, 0, 0
+}
