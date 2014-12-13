@@ -1,5 +1,6 @@
 Glow {
 	Flats {
 		WITLIT1
+		REDLIT1
 	}
 }
