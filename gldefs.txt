@@ -1,6 +1,7 @@
 Glow {
-	Flats {
-		WITLIT1
-		REDLIT1
-	}
+  Flats {
+    WITLIT1
+    FLAT17
+    FLAT21
+  }
 }
