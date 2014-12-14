@@ -7,7 +7,10 @@ Glow {
 }
 
 Skybox SSKY1 {
-  sky1s
-  sky1t
-  sky1b
+  spacelf
+  spaceft
+  spacert
+  spacebk
+  spaceup
+  spacedn
 }
