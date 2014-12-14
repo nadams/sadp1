@@ -5,3 +5,9 @@ Glow {
     FLAT21
   }
 }
+
+Skybox SSKY1 {
+  sky1s
+  sky1t
+  sky1b
+}
