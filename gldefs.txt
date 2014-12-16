@@ -1,0 +1,16 @@
+Glow {
+  Flats {
+    WITLIT1
+    FLAT17
+    FLAT21
+  }
+}
+
+Skybox SSKY1 {
+  spacelf
+  spaceft
+  spacert
+  spacebk
+  spaceup
+  spacedn
+}
