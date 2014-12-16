@@ -1,5 +1,5 @@
 ===========================================================================
-Advanced engine needed  : Zandronum 1.3+
+Advanced engine needed  : Zandronum 1.3+ OpenGL Only
 Primary purpose         : Coop play
 ===========================================================================
 Title                   : SADP1
