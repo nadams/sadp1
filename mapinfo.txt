@@ -1,5 +1,5 @@
 map map01 "Temp" {
 	sky1 = "SSKY1"
-	evenlighting
+  music = "m_map01"
 	next = "map01"
 }
